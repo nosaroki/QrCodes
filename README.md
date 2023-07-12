@@ -4,22 +4,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
 ### Screenshot
 
-![](FinalWork.png)
+![](images/FinalWork.png)
 
 ### Links
 
@@ -43,4 +36,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments
 
-Thanks to @LoopingStudio for the support (coeurmain.png)
+Thanks to @LoopingStudio for the support ![](images/coeurmain.png)
