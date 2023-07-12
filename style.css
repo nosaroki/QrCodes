@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Outfit";
+    src: url(https://fonts.google.com/specimen/Outfit);
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    font-family: Outfit;
+
+}
+
+main{
+    max-width: 375px;
+    margin: auto;
+
+}
+
+article{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    padding: 1em;
+    text-align: center;
+}
+
+img{
+    max-width: 345px;
+    border-radius: 20px;
+}
+
+h1{
+    color: hsl(218, 44%, 22%)
+}
+
+p{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
+
+footer{
+    color: hsl(218, 44%, 22%);
+    padding: 3em;
+}
