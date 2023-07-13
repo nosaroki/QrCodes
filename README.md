@@ -14,10 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](images/FinalWork.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://github.com/nosaroki/QrCodes)
-- Live Site URL: [Add live site URL here](https://nosaroki.github.io/QrCodes/)
 ### Built with
 
 - Semantic HTML5 markup
