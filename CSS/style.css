@@ -5,15 +5,16 @@
 
 body{
     background-color: hsl(212, 45%, 89%);
-    display: flex;
-    justify-content: center;
     font-family: Outfit;
-
 }
 
 main{
     max-width: 375px;
     margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 
 }
 
@@ -40,5 +41,9 @@ p{
 
 footer{
     color: hsl(218, 44%, 22%);
-    padding: 3em;
+    padding-bottom: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
